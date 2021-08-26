@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TestRealm</string>
+    <array name="gender">
+        <item>Male</item>
+        <item>Female</item>
+        <item>Other</item>
+    </array>
+</resources>
